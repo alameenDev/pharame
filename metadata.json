@@ -1,0 +1,6 @@
+{
+  "name": "منصة فارما كلاود لإدارة الصيدليات",
+  "description": "منصة سحابية متكاملة لإدارة الصيدليات متعددة الفروع تغطي دورة الأدوية، المشتريات، المخزون وتواريخ الصلاحية FEFO، الموردين، ونقاط البيع السريعة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
